@@ -1,6 +1,6 @@
-com/app/repo/StudentRepo.java
- com.app.repo.StudentRepo
-com/app/pojo/Student.java
- com.app.pojo.Student
 com/app/Application.java
  com.app.Application
+com/app/pojo/Student.java
+ com.app.pojo.Student
+com/app/repo/StudentRepo.java
+ com.app.repo.StudentRepo
