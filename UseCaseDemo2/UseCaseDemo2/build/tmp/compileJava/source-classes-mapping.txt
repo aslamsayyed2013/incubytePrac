@@ -1,0 +1,16 @@
+com/app/pojo/Student.java
+ com.app.pojo.Student
+com/app/repo/StudentRepo.java
+ com.app.repo.StudentRepo
+com/app/service/StudentService.java
+ com.app.service.StudentService
+com/app/Application.java
+ com.app.Application
+com/app/controller/studentController.java
+ com.app.controller.studentController
+com/app/repo/TeacherRepo.java
+ com.app.repo.TeacherRepo
+com/app/controller/TeacherController.java
+ com.app.controller.TeacherController
+com/app/service/TeacherService.java
+ com.app.service.TeacherService
